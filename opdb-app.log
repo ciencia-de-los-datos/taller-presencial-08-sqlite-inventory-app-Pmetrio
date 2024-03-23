@@ -1,0 +1,138 @@
+2024-03-22:16:37:01 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:37:01 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:16:37:01 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:16:37:01 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:37:01 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:37:01 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:37:01 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:37:35 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\db_setup.py', reloading
+2024-03-22:16:37:35 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:37:36 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:37:36 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:37:36 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:42:10 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:42:10 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:16:42:10 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:16:42:10 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:42:11 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:42:11 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:42:11 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:44:30 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\main.py', reloading
+2024-03-22:16:44:30 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:44:30 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:44:30 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:44:30 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:47:33 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\main.py', reloading
+2024-03-22:16:47:33 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:47:34 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:47:34 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:47:34 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:47:53 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\main.py', reloading
+2024-03-22:16:47:53 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:47:53 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:47:53 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:47:53 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:16:59:10 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:59:10 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:16:59:10 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:16:59:10 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:16:59:11 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:16:59:11 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:16:59:11 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:01:21 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\db_setup.py', reloading
+2024-03-22:17:01:21 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:01:21 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:17:01:21 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:01:21 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:02:34 INFO     [main.py     :138] BEGIN PROGRAM
+2024-03-22:17:02:34 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:02:34 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:02:34 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:02:35 INFO     [main.py     :138] BEGIN PROGRAM
+2024-03-22:17:02:35 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:02:35 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:03:53 INFO     [main.py     :138] BEGIN PROGRAM
+2024-03-22:17:03:53 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:03:53 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:03:53 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:03:53 INFO     [main.py     :138] BEGIN PROGRAM
+2024-03-22:17:03:53 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:03:53 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:05:34 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:05:34 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:05:34 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:05:34 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:05:35 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:05:35 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:05:35 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:11:25 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:17:11:25 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:11:25 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:11:25 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:11:26 INFO     [db_setup.py :138] BEGIN PROGRAM
+2024-03-22:17:11:26 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:11:26 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:15:14 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:15:14 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:15:14 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:15:14 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:15:15 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:15:15 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:15:15 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:16:12 INFO     [db_setup.py :129] PAGE REFRESH
+2024-03-22:17:16:12 INFO     [db_setup.py :40] Database Connection
+2024-03-22:17:16:12 INFO     [db_setup.py :59] Closed DB Connection
+2024-03-22:17:16:12 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:16:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-03-22:17:16:12 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:16:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-03-22:17:16:12 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:16:12] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-03-22:17:16:12 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:16:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-03-22:17:16:12 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:16:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-22:17:18:54 INFO     [db_setup.py :129] PAGE REFRESH
+2024-03-22:17:18:54 INFO     [db_setup.py :40] Database Connection
+2024-03-22:17:18:54 INFO     [db_setup.py :59] Closed DB Connection
+2024-03-22:17:18:54 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:18:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-03-22:17:18:54 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:18:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-22:17:18:54 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:18:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-22:17:18:54 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:18:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-22:17:20:22 INFO     [db_setup.py :129] PAGE REFRESH
+2024-03-22:17:20:22 INFO     [db_setup.py :40] Database Connection
+2024-03-22:17:20:22 INFO     [db_setup.py :59] Closed DB Connection
+2024-03-22:17:20:22 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:20:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-03-22:17:20:22 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:20:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-03-22:17:20:22 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:20:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-03-22:17:20:22 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:20:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-03-22:17:24:15 INFO     [_internal.py:96]  * Detected change in 'C:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\db_setup.py', reloading
+2024-03-22:17:24:15 INFO     [_internal.py:96]  * Detected change in 'c:\\Analitica\\taller-presencial-08-sqlite-inventory-app-Pmetrio\\db_setup.py', reloading
+2024-03-22:17:24:15 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:24:15 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:24:15 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:24:15 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:24:15 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:24:52 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:24:52 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-22:17:24:52 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-03-22:17:24:52 INFO     [_internal.py:96]  * Restarting with stat
+2024-03-22:17:24:52 INFO     [main.py     :135] BEGIN PROGRAM
+2024-03-22:17:24:52 WARNING  [_internal.py:96]  * Debugger is active!
+2024-03-22:17:24:52 INFO     [_internal.py:96]  * Debugger PIN: 145-841-967
+2024-03-22:17:25:05 INFO     [main.py     :126] PAGE REFRESH
+2024-03-22:17:25:05 INFO     [main.py     :37] Database Connection
+2024-03-22:17:25:05 INFO     [main.py     :68] GETPARTS() - CURRENT PART INVENTORY:
+		[<sqlite3.Row object at 0x000001B2A198FE20>, <sqlite3.Row object at 0x000001B2A198FD60>, <sqlite3.Row object at 0x000001B2A19B4040>, <sqlite3.Row object at 0x000001B2A19B40A0>, <sqlite3.Row object at 0x000001B2A19B4100>]
+2024-03-22:17:25:05 INFO     [main.py     :56] Closed DB Connection
+2024-03-22:17:25:05 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:25:05] "GET / HTTP/1.1" 200 -
+2024-03-22:17:25:05 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:25:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-22:17:25:40 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:25:40] "POST /requestparts HTTP/1.1" 200 -
+2024-03-22:17:25:51 INFO     [main.py     :37] Database Connection
+2024-03-22:17:25:51 INFO     [main.py     :93] REQUESTPARTS().results = None
+2024-03-22:17:25:51 INFO     [main.py     :56] Closed DB Connection
+2024-03-22:17:25:51 INFO     [_internal.py:96] 127.0.0.1 - - [22/Mar/2024 17:25:51] "POST /requestparts HTTP/1.1" 200 -
